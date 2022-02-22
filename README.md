@@ -74,5 +74,5 @@ Para acessar a documentação, após fazer a instalação na sua máquina, acess
 Feito com :heart: <a href="https://github.com/sabinorush/">
  Gustavo Sabino</a> por 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Sabino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-sabino/)](https://www.linkedin.com/in/gustavo-sabino/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Sabino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosabino/)](https://www.linkedin.com/in/gustavosabino/) 
 [![Outlook Badge](https://img.shields.io/badge/Gustavo_Sabino-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gu.sabino@hotmail.com)
